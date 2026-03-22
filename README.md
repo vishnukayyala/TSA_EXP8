@@ -131,6 +131,7 @@ if file_path:
 
 <img width="663" height="591" alt="image" src="https://github.com/user-attachments/assets/dd53ae4d-55a1-4a6c-97c9-ac84a64c5737" />
 <img width="637" height="479" alt="image" src="https://github.com/user-attachments/assets/40728f8a-0ab4-4b21-97d8-75edad4f07c1" />
+<img width="631" height="341" alt="image" src="https://github.com/user-attachments/assets/a5b85947-7b04-4e5d-8601-edaf004eedcf" />
 
 ### RESULT:
 Thus we have successfully implemented the Moving Average Model and Exponential smoothing using python.
